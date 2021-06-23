@@ -1,18 +1,6 @@
-aiohttp @ file:///Users/runner/miniforge3/conda-bld/aiohttp_1623682531455/work
-appnope @ file:///Users/runner/miniforge3/conda-bld/appnope_1610094673755/work
-argon2-cffi @ file:///Users/runner/miniforge3/conda-bld/argon2-cffi_1610522600383/work
-async-generator==1.10
-async-timeout==3.0.1
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1620387926260/work
-backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
-backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
-bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1612213472466/work
-certifi==2021.5.30
-cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1613413892199/work
-chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1610093613037/work
-click @ file:///Users/runner/miniforge3/conda-bld/click_1621503946569/work
-dash @ file:///home/conda/feedstock_root/build_artifacts/dash_1618036125020/work
-dash-bootstrap-components @ file:///home/conda/feedstock_root/build_artifacts/dash-bootstrap-components_1620178126952/work
+
+dash
+dash-bootstrap-components 
 dash-core-components @ file:///home/conda/feedstock_root/build_artifacts/dash-core-components_1617984947808/work
 dash-html-components @ file:///home/conda/feedstock_root/build_artifacts/dash-html-components_1617985450943/work
 dash-renderer @ file:///home/conda/feedstock_root/build_artifacts/dash-renderer_1617984936069/work
