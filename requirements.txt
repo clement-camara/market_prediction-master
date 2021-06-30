@@ -23,7 +23,6 @@ entrypoints
 Flask
 Flask-Compress==1.4.0
 future
-uvicorn
 gunicorn==20.1.0
 idna
 import-ipynb==0.1.3
