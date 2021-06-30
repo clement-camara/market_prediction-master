@@ -40,7 +40,7 @@ jsonschema
 jupyter-client
 jupyter-core
 jupyter-server-proxy==1.0
-# jupyterlab-dash==0.1.0a2
+jupyterlab-dash==0.1.0a2
 jupyterlab-pygments
 MarkupSafe
 matplotlib-inline
