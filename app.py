@@ -9,11 +9,11 @@ import dash_core_components as dcc
 df = pd.read_csv('data_market_final.csv')
 
 
-
 # create dash app with bootstrap feature
 app = dash.Dash(__name__, suppress_callback_exceptions=True, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
 
+print('hello')
 # Create figure with secondary y-axis
 def strategy(fig):
     # Add traces
@@ -148,4 +148,6 @@ fig.update_layout(
     title="Stratégies commune VS fermeture du Nasdaq")
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(
+        port=8050,
+        host='0.0.0.0')
